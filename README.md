@@ -4,7 +4,7 @@
 <H1 Align="center">Project Based Experiment<H1>
 
 ## OBJECTIVE:
-To perform sentiment analysis using your Facebook data and count the number of Occurrences of <Your Name>
+To perform sentiment analysis using your Facebook data and count the number of Occurrences of Your Name.
 ## PROGRAM:
 ```
 import pandas as pd
