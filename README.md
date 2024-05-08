@@ -42,5 +42,5 @@ print(f"Occurrences of '{given_name}': {name_occurrences}")
 ## OUTPUT:
 ![output](op1.png)
 
-## Inference:</H3>
+## INFERENCE:
 By exploring sentiment analysis techniques and applying them to social media data, I gained practical experience in extracting sentiment information and identifying patterns in text. Additionally, counting occurrences of specific names enhanced my understanding of text processing and how to extract meaningful information from large datasets.
