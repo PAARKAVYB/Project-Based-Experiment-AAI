@@ -1,6 +1,6 @@
-<H3>NAME:Paarkavy B</H3>
-<H3>REGISTER NO:212221230072</H3>
-<H3>DATE:08/05/2024</H3>
+<H3>Name:Paarkavy B</H3>
+<H3>Register No:212221230072</H3>
+<H3>Date:08/05/2024</H3>
 <H1 Align="center">Project Based Experiment<H1>
 
 ## OBJECTIVE:
